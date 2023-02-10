@@ -1,6 +1,4 @@
 ### 
-<img src="https://freelancermap.s3.eu-west-1.amazonaws.com/channel_incl2/what-does-a-front-end-developer-do----career-insights-4940.jpg">
-
 Hi!👋 
 I am a 24 year old Sicilian web developer. 👩🏻‍💻
 
