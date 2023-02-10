@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi!👋 
+I am a 24 year old Sicilian web developer. 👩🏻‍💻
+
+Skills ✨
+💻 FRONT-END: HTML, Javascript (Node.js, React.js, Next.js, Vite.js, Timeline.js, Toast Ui), CSS, Sass, Css.modules
+
+💻 BACK-END: MYSQL Wortkbench, PHPMyAdmin
+
 
 <!--
 **chiacirrito/chiacirrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
