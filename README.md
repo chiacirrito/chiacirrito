@@ -8,6 +8,8 @@ Skills ✨
 
 💻 BACK-END: MYSQL Wortkbench, PHPMyAdmin
 
+💻 CMS: Omeka, Woordpress, WooCommerce
+
 
 <!--
 **chiacirrito/chiacirrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
