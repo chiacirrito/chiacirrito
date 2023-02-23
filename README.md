@@ -4,6 +4,7 @@ I am a 24 year old Sicilian web developer. 👩🏻‍💻
 
 Skills ✨
 
+![alt text](http://url/to/https://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg)
 💻 FRONT-END: HTML, Javascript (Node.js, React.js, Next.js, Vite.js, Timeline.js, Toast Ui), CSS, Sass, Css.modules
 
 💻 BACK-END: MYSQL Wortkbench, PHPMyAdmin
